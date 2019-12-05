@@ -1,0 +1,40 @@
+ 
+ Github Notes :
+ _ _ _ _ _ _ _ _ 
+ 
+ git clone <url>
+ 
+ cd <name of repostiry>
+ 
+ ls : listts everythimg in nthe repostiry
+ 
+ touch  <file name> : it creats a file 
+ 
+ git add <file name> : it adds that file to the remote (still not in the repostiry)
+ 
+ git commit -m "name of that version ex:1st v" : it adds the last file taht is in the remote and call that version 1st v.
+ 
+ git status : gives you the last vesrions you have added last time.
+ 
+ git push : add the chnages you have made to the repostiry (push the changes).
+ 
+ git pull : you want to get those changes to your computer.
+ 
+ merge conflicts : when 2 changes occur on a file and we want both changes , merge conflicts will merge them automaticly
+ so you add the wanted piece of code and then push.
+ 
+ git log : gives you the history of commits.
+ 
+ git reset --hard <commit> : reset the repository to a given commit.
+ 
+ git reset --hard origin/master : reset the repository to its original state.
+ 
+ ______________________________________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
